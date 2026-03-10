@@ -1,1 +1,3 @@
-This is a Java YAML parser, which is not meant for production
+### This is a Java YAML parser
+
+This repository is created for academic purposes only
