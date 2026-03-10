@@ -1,0 +1,50 @@
+
+- first_name: "Сергей"
+  second_name: "Петрович"
+  last_name: "Иванов"
+  address: "Москва, ул. Ленина, 12"
+
+- first_name: "Анна"
+  second_name: "Викторовна"
+  last_name: "Петрова"
+  address: "Санкт-Петербург, пр-т Мира, 45"
+
+- first_name: "Дмитрий"
+  second_name: "Алексеевич"
+  last_name: "Смирнов"
+  address: "Казань, ул. Гагарина, 7"
+
+- first_name: "Мария"
+  second_name: "Игоревна"
+  last_name: "Кузнецова"
+  address: "Новосибирск, ул. Советская, 23"
+
+- first_name: "Алексей"
+  second_name: "Николаевич"
+  last_name: "Попов"
+  address: "Екатеринбург, ул. Центральная, 5"
+
+- first_name: "Ольга"
+  second_name: "Сергеевна"
+  last_name: "Васильева"
+  address: "Нижний Новгород, ул. Молодёжная, 18"
+
+- first_name: "Андрей"
+  second_name: "Владимирович"
+  last_name: "Морозов"
+  address: "Самара, ул. Парковая, 30"
+
+- first_name: "Елена"
+  second_name: "Павловна"
+  last_name: "Новикова"
+  address: "Челябинск, ул. Школьная, 9"
+
+- first_name: "Максим"
+  second_name: "Олегович"
+  last_name: "Фёдоров"
+  address: "Омск, ул. Садовая, 14"
+
+- first_name: "Наталья"
+  second_name: "Андреевна"
+  last_name: "Зайцева"
+  address: "Ростов-на-Дону, ул. Берёзовая, 3"
